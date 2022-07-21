@@ -8,6 +8,12 @@ h1{
     font-size: 30px;
     text-align: center;
 }
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
 body{
     background-color: bisque;
 }
@@ -84,4 +90,5 @@ color: darkblue ;
   ol.e{
     list-style-type:upper-roman ;
   }
+
   
